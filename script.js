@@ -1,28 +1,3 @@
-
-const data = {
-  "name": "Đỗ Văn Lữ",
-  "yearOfBirth": 1950,
-  "hometown": "Hà Nội",
-  "avatar": "https://via.placeholder.com/60",
-  "children": [
-    {
-      "name": "Đỗ Văn Bản",
-      "yearOfBirth": 1975,
-      "hometown": "Nam Định",
-      "avatar": "https://via.placeholder.com/60",
-      "children": [
-        {
-          "name": "Nguyễn Văn C",
-          "yearOfBirth": 2000,
-          "hometown": "Hải Phòng",
-          "avatar": "https://via.placeholder.com/60",
-          "children": []
-        }
-      ]
-    }
-  ]
-};
-
 function createTree(node) {
   const li = document.createElement("li");
 
@@ -30,7 +5,7 @@ function createTree(node) {
   card.classList.add("member-card");
 
   const avatar = document.createElement("img");
-  avatar.src = node.avatar;
+  avatar.src = node.avatar || "https://via.placeholder.com/60";  // Nếu không có ảnh thì dùng placeholder
   avatar.alt = node.name;
 
   const info = document.createElement("div");
@@ -40,7 +15,9 @@ function createTree(node) {
   name.textContent = node.name;
 
   const details = document.createElement("p");
-  details.innerHTML = `🎂 ${node.yearOfBirth}<br>📍 ${node.hometown}`;
+  details.innerHTML = 
+    (node.yearOfBirth ? `🎂 ${node.yearOfBirth}<br>` : '') +
+    (node.hometown ? `📍 ${node.hometown}` : '');
 
   info.appendChild(name);
   info.appendChild(details);
@@ -74,7 +51,16 @@ function createTree(node) {
   return li;
 }
 
-const root = document.createElement("ul");
-root.appendChild(createTree(data));
-document.getElementById("tree").innerHTML = "";
-document.getElementById("tree").appendChild(root);
+// 🛑 Dùng fetch để lấy data.json
+fetch('data.json')
+  .then(response => response.json())
+  .then(data => {
+    const root = document.createElement("ul");
+    root.appendChild(createTree(data));
+    document.getElementById("tree").innerHTML = "";
+    document.getElementById("tree").appendChild(root);
+  })
+  .catch(error => {
+    console.error("Lỗi khi tải dữ liệu:", error);
+    document.getElementById("tree").innerHTML = "Không thể tải dữ liệu.";
+  });
