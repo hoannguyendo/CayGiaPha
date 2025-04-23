@@ -7,7 +7,8 @@
     {
       "name": "Đỗ Văn Bản",
       "yearOfBirth": "",
-      "hometown": "Hà Tĩnh",
+      "hometown": "Đồng Đức",
+	  "spouse": "Lê Thị Lễ",
       "children": [
         {
           "name": "Đỗ Văn ?",
@@ -17,13 +18,15 @@
         },
         {
           "name": "Đỗ Văn Thái",
-          "yearOfBirth": "",
+          "yearOfBirth": "1522",
           "hometown": "Trung Lộc",
+		   "spouse": "Lê Thị Phúng",
           "children": [
             {
               "name": "Đỗ Văn An",
-              "yearOfBirth": "",
+              "yearOfBirth": "1592",
               "hometown": "",
+			    "spouse": "Nguyễn Thị Hằng",
               "children": [ 
 				{
 				  "name": "Nguyễn Đỗ Nho",
@@ -159,7 +162,30 @@
 									  "name": "Nguyễn Đỗ Hôi",
 									  "yearOfBirth": "",
 									  "hometown": "",
+									  "children": [ 
+									{
+									  "name": "Nguyễn Đỗ Thơm",
+									  "yearOfBirth": "",
+									  "hometown": "",
 									  "children": [  ]
+									},
+									{
+									  "name": "Nguyễn Đỗ Xây",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [  ]
+									},{
+									  "name": "Nguyễn Đỗ Núi",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [  ]
+									},{
+									  "name": "Nguyễn Đỗ Lộc",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [  ]
+									}
+									  ]
 									}
 									]
 							}
