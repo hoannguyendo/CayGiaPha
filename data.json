@@ -1,0 +1,23 @@
+{
+  "name": "Nguyễn Văn A",
+  "yearOfBirth": 1950,
+  "hometown": "Hà Nội",
+  "avatar": "https://via.placeholder.com/60",
+  "children": [
+    {
+      "name": "Nguyễn Văn B",
+      "yearOfBirth": 1975,
+      "hometown": "Nam Định",
+      "avatar": "https://via.placeholder.com/60",
+      "children": [
+        {
+          "name": "Nguyễn Văn C",
+          "yearOfBirth": 2000,
+          "hometown": "Hải Phòng",
+          "avatar": "https://via.placeholder.com/60",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
