@@ -1,21 +1,133 @@
 {
-  "name": "Nguyễn Văn A",
-  "yearOfBirth": 1950,
-  "hometown": "Hà Nội",
-  "avatar": "https://via.placeholder.com/60",
+  "name": "Đỗ Văn Lữ",
+  "yearOfBirth": "1448",
+  "hometown": "Hà Tĩnh",
+  "spouse": "Nguyễn Thị Phóng",
   "children": [
     {
-      "name": "Nguyễn Văn B",
-      "yearOfBirth": 1975,
-      "hometown": "Nam Định",
-      "avatar": "https://via.placeholder.com/60",
+      "name": "Đỗ Văn Bản",
+      "yearOfBirth": "",
+      "hometown": "Hà Tĩnh",
       "children": [
         {
-          "name": "Nguyễn Văn C",
-          "yearOfBirth": 2000,
-          "hometown": "Hải Phòng",
-          "avatar": "https://via.placeholder.com/60",
+          "name": "Đỗ Văn ?",
+          "yearOfBirth": "",
+          "hometown": "Địch Yên",
           "children": []
+        },
+        {
+          "name": "Đỗ Văn Thái",
+          "yearOfBirth": "",
+          "hometown": "Trung Lộc",
+          "children": [
+            {
+              "name": "Đỗ Văn An",
+              "yearOfBirth": "",
+              "hometown": "",
+              "children": [ 
+				{
+				  "name": "Nguyễn Đỗ Nho",
+				  "yearOfBirth": "",
+				  "hometown": "",
+				  "children": [  
+					{
+					  "name": "Nguyễn Đỗ Nghị",
+					  "yearOfBirth": "",
+					  "hometown": "",
+					  "children": [ 
+					{
+					  "name": "Nguyễn Đỗ Tàng",
+					  "yearOfBirth": "",
+					  "hometown": "",
+					  "children": [  ]
+					}
+					  ]
+					}
+				  ]
+				},
+				{
+				  "name": "Nguyễn Đỗ Siêu",
+				  "yearOfBirth": "",
+				  "hometown": "",
+				  "children": [ 
+					{
+					  "name": "Nguyễn Đỗ Tìm",
+					  "yearOfBirth": "",
+					  "hometown": "",
+					  "children": [  ]
+					},
+					{
+					  "name": "Nguyễn Đỗ Thông",
+					  "yearOfBirth": "",
+					  "hometown": "",
+					  "children": [  ]
+					},
+					{
+					  "name": "Nguyễn Đỗ Luật",
+					  "yearOfBirth": "",
+					  "hometown": "",
+					  "children": [  ]
+					},
+					{
+					  "name": "Nguyễn Đỗ Tố",
+					  "yearOfBirth": "",
+					  "hometown": "",
+					  "children": [  ]
+					}
+				  ]
+				}
+			  ]
+            }
+          ]
+        },
+        {
+          "name": "Đỗ Văn Minh",
+          "yearOfBirth": "",
+          "hometown": "Đồng Đức",
+          "children": [
+		  
+		   {
+              "name": "Đỗ Văn Oai",
+              "yearOfBirth": "",
+              "hometown": "",
+              "children": [
+				{
+				  "name": "Đỗ Văn Thức",
+				  "yearOfBirth": "",
+				  "hometown": "",
+				  "children": [
+					{
+					  "name": "Đỗ Văn Giảng",
+					  "yearOfBirth": "",
+					  "hometown": "",
+					  "children": [
+						
+						{
+						  "name": "Đỗ Văn Yến",
+						  "yearOfBirth": "",
+						  "hometown": "Tân An",
+						  "children": []
+						},
+						{
+						  "name": "Đỗ Văn Mưu",
+						  "yearOfBirth": "",
+						  "hometown": "Đồng Đức",
+						  "children": []
+						},
+						{
+						  "name": "Đỗ Văn Thành",
+						  "yearOfBirth": "",
+						  "hometown": "Đồng Đức",
+						  "children": []
+						}
+					
+					  ]
+					}
+				  ]
+				}
+			  ]
+            }
+		  ]
         }
       ]
     }
