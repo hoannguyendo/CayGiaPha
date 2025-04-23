@@ -183,7 +183,45 @@
 									  "name": "Nguyễn Đỗ Lộc",
 									  "yearOfBirth": "",
 									  "hometown": "",
+									  "children": [ 
+									{
+									  "name": "Nguyễn Đỗ Văn Phòng",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [ 
+									{
+									  "name": "Nguyễn Đỗ Văn Hoa",
+									  "yearOfBirth": "",
+									  "hometown": "",
 									  "children": [  ]
+									},
+										{
+									  "name": "Nguyễn Đỗ Văn Xuân",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [  ]
+									},
+									{
+									  "name": "Nguyễn Đỗ Văn Nhàn",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [  ]
+									},
+									{
+									  "name": "Nguyễn Đỗ Minh Nhạn",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [  ]
+									}
+									]
+									},
+									{
+									  "name": "Nguyễn Đỗ Mỹ Thạnh",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [  ]
+									}
+									  ]
 									}
 									  ]
 									}
@@ -212,19 +250,59 @@
 					  "name": "Nguyễn Đỗ Thông",
 					  "yearOfBirth": "",
 					  "hometown": "",
+					  "children": [
+					{
+					  "name": "Nguyễn Đỗ Khánh",
+					  "yearOfBirth": "",
+					  "hometown": "",
 					  "children": [  ]
+					}
+					  ]
 					},
 					{
 					  "name": "Nguyễn Đỗ Luật",
 					  "yearOfBirth": "",
 					  "hometown": "",
+					  "children": [ 
+					{
+					  "name": "Nguyễn Đỗ Tâm",
+					  "yearOfBirth": "",
+					  "hometown": "",
+					  "children": [ 
+					{
+					  "name": "Nguyễn Đỗ Thưởng",
+					  "yearOfBirth": "",
+					  "hometown": "",
 					  "children": [  ]
+					},
+					{
+					  "name": "Nguyễn Đỗ Nhiêu",
+					  "yearOfBirth": "",
+					  "hometown": "",
+					  "children": [  ]
+					}
+					  ]
+					},
+					{
+					  "name": "Nguyễn Đỗ Từ",
+					  "yearOfBirth": "",
+					  "hometown": "",
+					  "children": [  ]
+					}
+					  ]
 					},
 					{
 					  "name": "Nguyễn Đỗ Tố",
 					  "yearOfBirth": "",
 					  "hometown": "",
+					  "children": [ 
+					{
+					  "name": "Nguyễn Đỗ Hoàng",
+					  "yearOfBirth": "",
+					  "hometown": "",
 					  "children": [  ]
+					}
+					  ]
 					}
 				  ]
 				}
@@ -258,19 +336,94 @@
 						  "name": "Đỗ Văn Yến",
 						  "yearOfBirth": "",
 						  "hometown": "Tân An",
+						  "spouse": "",
+						  "children": [
+						  {
+						  "name": "Đỗ Văn ?",
+						  "yearOfBirth": "",
+						  "hometown": "Tân An",
+						  "spouse": "",
 						  "children": []
+						},
+						{
+						  "name": "Đỗ Văn ?",
+						  "yearOfBirth": "",
+						  "hometown": "Tân An",
+						  "spouse": "",
+						  "children": []
+						},
+						{
+						  "name": "Đỗ Văn ?",
+						  "yearOfBirth": "",
+						  "hometown": "Tân An",
+						  "spouse": "",
+						  "children": []
+						}
+						  ]
 						},
 						{
 						  "name": "Đỗ Văn Mưu",
 						  "yearOfBirth": "",
 						  "hometown": "Đồng Đức",
-						  "children": []
+						  "children": [
+						  {
+						  "name": "Đỗ Văn Mật",
+						  "yearOfBirth": "",
+						  "hometown": "Đồng Đức",
+						  "children": [
+							  {
+							  "name": "Đỗ Văn Bình",
+							  "yearOfBirth": "",
+							  "hometown": "Đồng Đức",
+							  "children": []
+							},
+							{
+							  "name": "Đỗ Thị Huệ",
+							  "yearOfBirth": "",
+							  "hometown": "Đồng Đức",
+							  "children": []
+							},
+							{
+							  "name": "Đỗ Văn Hòa",
+							  "yearOfBirth": "",
+							  "hometown": "Đồng Đức",
+							  "children": []
+							}
+						  ]
+						}
+						  ]
 						},
 						{
 						  "name": "Đỗ Văn Thành",
 						  "yearOfBirth": "",
 						  "hometown": "Đồng Đức",
-						  "children": []
+						  "children": [
+						  {
+						  "name": "Đỗ Văn Định",
+						  "yearOfBirth": "",
+						  "hometown": "Đồng Đức",
+						  "children": [
+							 {
+							  "name": "Đỗ Văn Sáu",
+							  "yearOfBirth": "",
+							  "hometown": "Đồng Đức",
+							  "children": []
+							},
+							{
+							  "name": "Đỗ Văn Loan",
+							  "yearOfBirth": "",
+							  "hometown": "Đồng Đức",
+							  "children": []
+							},{
+							  "name": "Đỗ Văn Thanh",
+							  "yearOfBirth": "",
+							  "hometown": "Đồng Đức",
+							  "children": []
+							}
+							
+						  ]
+						}
+						  ]
 						}
 					
 					  ]
