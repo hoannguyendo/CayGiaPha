@@ -1,4 +1,3 @@
-
 body {
   font-family: Arial, sans-serif;
   background-color: #f4f4f4;
@@ -13,6 +12,7 @@ h1 {
 ul {
   list-style-type: none;
   padding-left: 20px;
+  margin: 0;
 }
 
 li {
@@ -27,17 +27,13 @@ li {
   padding: 10px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   position: relative;
-}
-
-.member-card img {
-  width: 60px;
-  height: 60px;
-  border-radius: 50%;
-  margin-right: 10px;
+  max-width: 100%;
+  word-wrap: break-word; /* Đảm bảo nội dung không bị tràn ra ngoài */
 }
 
 .member-card .info {
   line-height: 1.4;
+  flex-grow: 1; /* Đảm bảo phần thông tin chiếm toàn bộ không gian còn lại */
 }
 
 .toggle-btn {
@@ -57,4 +53,43 @@ li {
 
 .hidden {
   display: none;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+  .member-card {
+    flex-direction: column; /* Chuyển thành dạng cột cho các màn hình nhỏ */
+    align-items: flex-start; /* Căn trái các phần tử */
+    padding: 15px;
+  }
+
+  .toggle-btn {
+    left: -30px; /* Điều chỉnh vị trí của nút toggle cho vừa với màn hình nhỏ */
+    top: 5px; /* Đưa nút lên trên để không che khuất */
+    font-size: 14px;
+  }
+
+  .member-card .info {
+    margin-top: 10px; /* Tạo khoảng cách giữa tên và thông tin chi tiết */
+  }
+
+  ul {
+    padding-left: 10px; /* Giảm lề bên trái cho các thiết bị nhỏ */
+  }
+}
+
+@media screen and (max-width: 480px) {
+  h1 {
+    font-size: 20px; /* Giảm kích thước chữ tiêu đề trên màn hình nhỏ */
+  }
+
+  .member-card {
+    padding: 10px; /* Điều chỉnh lại padding cho thiết bị nhỏ */
+  }
+
+  .toggle-btn {
+    width: 18px;
+    height: 18px;
+    font-size: 12px;
+  }
 }
