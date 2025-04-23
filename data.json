@@ -54,7 +54,14 @@
 								  "name": "Nguyễn Đỗ Đờm",
 								  "yearOfBirth": "",
 								  "hometown": "",
-								  "children": [  ]
+								  "children": [ 
+									{
+									  "name": "Nguyễn Đỗ Níu",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [  ]
+									}
+								]
 								}
 							  ]
 							},
@@ -73,7 +80,54 @@
 								  "name": "Nguyễn Đỗ Tân",
 								  "yearOfBirth": "",
 								  "hometown": "",
-								  "children": [  ]
+								  "children": [
+									{
+									  "name": "Nguyễn Đỗ Tý",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [ 
+									{
+									  "name": "Nguyễn Đỗ Diêm",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "spouse": "Đặng Thị Phượng",
+									  "children": [ 
+									{
+									  "name": "Nguyễn Đỗ Diễm Hằng",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "spouse": "Lê Minh Thuận",
+									  "children": [  ]
+									},
+									{
+									  "name": "Nguyễn Đỗ Diễm Hương",
+									  "yearOfBirth": "",
+									  "hometown": "",								
+									  "children": [  ]
+									},
+									{
+									  "name": "Nguyễn Đỗ Kiều Loan",
+									  "yearOfBirth": "",
+									  "hometown": "",								
+									  "children": [  ]
+									},
+									{
+									  "name": "Nguyễn Đỗ Mỹ Linh",
+									  "yearOfBirth": "",
+									  "hometown": "",								
+									  "children": [  ]
+									},
+									{
+									  "name": "Nguyễn Đỗ Kim Phụng",
+									  "yearOfBirth": "",
+									  "hometown": "",								
+									  "children": [  ]
+									}
+									  ]
+									}
+									  ]
+									}
+								  ]
 								},
 								{
 								  "name": "Nguyễn Đỗ Cho",
