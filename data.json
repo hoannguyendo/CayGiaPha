@@ -27,7 +27,20 @@
               "yearOfBirth": "1592",
               "hometown": "",
 			    "spouse": "Nguyễn Thị Hằng",
-              "children": [ ]
+              "children": [ 
+				{
+				  "name": "Nguyễn Đỗ Nho",
+				  "yearOfBirth": "",
+				  "hometown": "",
+				  "children": [  ]
+				},
+				{
+				  "name": "Nguyễn Đỗ Siêu",
+				  "yearOfBirth": "",
+				  "hometown": "",
+				  "children": [  ]
+				}
+			  ]
 			 }
 		  ]					
         },
