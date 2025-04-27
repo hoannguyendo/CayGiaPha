@@ -1394,7 +1394,7 @@
 											  "yearOfBirth": "",
 											  "hometown": "",
 											  "children": [
-													{
+											{
 												"name": "Nguyễn Đỗ Châu Linh",
 											  "yearOfBirth": "",
 											  "hometown": "",
@@ -1420,7 +1420,26 @@
 									  "name": "Nguyễn Đỗ Diêu",
 									  "yearOfBirth": "",
 									  "hometown": "",
-									  "children": [  ]
+									  "children": [									  
+										{
+											  "name": "Nguyễn Đỗ Diệu Hồng",
+											  "yearOfBirth": "",
+											  "hometown": "",
+											  "children": [  ]
+											},
+												{
+											  "name": "Nguyễn Đỗ Kim Hoa",
+											  "yearOfBirth": "",
+											  "hometown": "",
+											  "children": [  ]
+											},
+												{
+											  "name": "Nguyễn Đỗ Đình Hùng",
+											  "yearOfBirth": "",
+											  "hometown": "",
+											  "children": [  ]
+											}
+									  ]
 									},
 										{
 									  "name": "Nguyễn Đỗ Sất",
