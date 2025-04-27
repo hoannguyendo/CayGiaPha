@@ -1202,7 +1202,40 @@
 						  "name": "Nguyễn Đỗ Cương",
 						  "yearOfBirth": "",
 						  "hometown": "",
-						  "children": [  ]
+						  "children": [
+								{
+									  "name": "Nguyễn Đỗ Hòa",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [
+											{
+											  "name": "Nguyễn Đỗ Bình",
+											  "yearOfBirth": "",
+											  "hometown": "",
+											  "children": [  ]
+											},
+												{
+											  "name": "Nguyễn Đỗ Định",
+											  "yearOfBirth": "",
+											  "hometown": "",
+											  "children": [  ]
+											},
+												{
+											  "name": "Nguyễn Đỗ Tường",
+											  "yearOfBirth": "",
+											  "hometown": "",
+											  "children": [  ]
+											}
+									  ]
+									},
+										{
+									  "name": "Nguyễn Đỗ Khóa",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [  ]
+									}
+									
+						  ]
 						}
 						  ]
 						},
@@ -1211,24 +1244,146 @@
 						  "yearOfBirth": "",
 						  "hometown": "",
 						  "children": [ 
-						  {
-						  "name": "Nguyễn Đỗ Khóa",
-						  "yearOfBirth": "",
-						  "hometown": "",
-						  "children": [  ]
-						},
-						{
-						  "name": "Nguyễn Đỗ Khiển",
-						  "yearOfBirth": "",
-						  "hometown": "",
-						  "children": [  ]
-						},
-						{
-						  "name": "Nguyễn Đỗ Tạ",
-						  "yearOfBirth": "",
-						  "hometown": "",
-						  "children": [  ]
-						}
+							  {
+							  "name": "Nguyễn Đỗ Khóa",
+							  "yearOfBirth": "",
+							  "hometown": "",
+							  "children": [
+									{
+									  "name": "Nguyễn Đỗ Hinh",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [
+											{
+											  "name": "Nguyễn Đỗ Tuyên",
+											  "yearOfBirth": "",
+											  "hometown": "",
+											  "children": [  ]
+											},
+												{
+											  "name": "Nguyễn Đỗ Quỳnh",
+											  "yearOfBirth": "",
+											  "hometown": "",
+											  "children": [  ]
+											},
+												{
+											  "name": "Nguyễn Đỗ Tấn",
+											  "yearOfBirth": "",
+											  "hometown": "",
+											  "children": [  ]
+											},
+												{
+											  "name": "Nguyễn Đỗ Trình",
+											  "yearOfBirth": "",
+											  "hometown": "",
+											  "children": [  ]
+											}
+									  ]
+									},
+										{
+									  "name": "Nguyễn Đỗ Từ",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [  ]
+									}
+							  ]
+							},
+							{
+							  "name": "Nguyễn Đỗ Khiển",
+							  "yearOfBirth": "",
+							  "hometown": "",
+							  "children": [
+									{
+									  "name": "Nguyễn Đỗ Luân",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [  ]
+									},
+										{
+									  "name": "Nguyễn Đỗ Quế",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [
+											{
+											  "name": "Nguyễn Đỗ Du",
+											  "yearOfBirth": "",
+											  "hometown": "",
+											  "children": [  ]
+											}
+									  ]
+									},
+										{
+									  "name": "Nguyễn Đỗ Tròn",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [  ]
+									}
+							  ]
+							},
+							{
+							  "name": "Nguyễn Đỗ Tạ",
+							  "yearOfBirth": "",
+							  "hometown": "",
+							  "children": [
+									{
+									  "name": "Nguyễn Đỗ Cường",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [
+											{
+											  "name": "Nguyễn Đỗ Ngân",
+											  "yearOfBirth": "",
+											  "hometown": "",
+											  "children": [  ]
+											},
+												{
+											  "name": "Nguyễn Đỗ Đăng",
+											  "yearOfBirth": "",
+											  "hometown": "",
+											  "children": [  ]
+											}
+									  ]
+									},
+										{
+									  "name": "Nguyễn Đỗ Cung",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [
+											{
+											  "name": "Nguyễn Đỗ Khiển",
+											  "yearOfBirth": "",
+											  "hometown": "",
+											  "children": [  ]
+											}
+									  ]
+									},
+										{
+									  "name": "Nguyễn Đỗ Huyền",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [
+											{
+											  "name": "Nguyễn Đỗ Thỉ",
+											  "yearOfBirth": "",
+											  "hometown": "",
+											  "children": [  ]
+											},
+												{
+											  "name": "Nguyễn Thị Thâm",
+											  "yearOfBirth": "",
+											  "hometown": "",
+											  "children": [  ]
+											},
+												{
+											  "name": "Nguyễn Thị Uyên",
+											  "yearOfBirth": "",
+											  "hometown": "",
+											  "children": [  ]
+											}
+									  ]
+									}
+							  ]
+							}
 						  ]
 						}
 					  ]
@@ -1238,24 +1393,64 @@
 					  "yearOfBirth": "",
 					  "hometown": "",
 					  "children": [ 
-					  {
-					  "name": "Nguyễn Đỗ Tuy",
-					  "yearOfBirth": "",
-					  "hometown": "",
-					  "children": [  ]
-					},
-					{
-					  "name": "Nguyễn Đỗ Huy",
-					  "yearOfBirth": "",
-					  "hometown": "",
-					  "children": [  ]
-					},
-					{
-					  "name": "Nguyễn Đỗ Húy",
-					  "yearOfBirth": "",
-					  "hometown": "",
-					  "children": [  ]
-					}
+						  {
+						  "name": "Nguyễn Đỗ Tuy",
+						  "yearOfBirth": "",
+						  "hometown": "",
+						  "children": [
+								{
+									  "name": "Nguyễn Đỗ Tồn",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [
+											{
+									  "name": "Nguyễn Đỗ Đắng",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [  ]
+									},
+										{
+									  "name": "Nguyễn Đỗ Kỳ",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [  ]
+									}
+									  ]
+								}
+						  ]
+						},
+						{
+						  "name": "Nguyễn Đỗ Huy",
+						  "yearOfBirth": "",
+						  "hometown": "",
+						  "children": [
+									{
+									  "name": "Nguyễn Đỗ Xạ",
+									  "yearOfBirth": "",
+									  "hometown": "",
+									  "children": [
+											{
+										  "name": "Nguyễn Đỗ Tuyển",
+											  "yearOfBirth": "",
+											  "hometown": "",
+											  "children": [  ]
+											},
+											{
+										  "name": "Nguyễn Đỗ Ắt",
+										  "yearOfBirth": "",
+										  "hometown": "",
+										  "children": [  ]
+										}
+									  ]
+									}
+						  ]
+						},
+						{
+						  "name": "Nguyễn Đỗ Húy",
+						  "yearOfBirth": "",
+						  "hometown": "",
+						  "children": [  ]
+						}
 					  ]
 					}
 					  ]
