@@ -150,19 +150,8 @@
 							  "name": "Nguyễn Đỗ Nan",
 							  "yearOfBirth": "",
 							  "hometown": "",
-							  "children": [
-								{
-								  "name": "Nguyễn Đỗ Đắng",
-								  "yearOfBirth": "",
-								  "hometown": "",
-								  "children": [ 
-									{
-										  "name": "Nguyễn Đỗ Hôi",
-										  "yearOfBirth": "",
-										  "hometown": "",
-										  "children": [ ]
-										}
-								  ]
+							  "children": []
+								
 								}
 							  ]
 							}
