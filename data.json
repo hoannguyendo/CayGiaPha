@@ -21,7 +21,67 @@
           "yearOfBirth": "1522",
           "hometown": "Trung Lộc",
 		   "spouse": "Lê Thị Phúng",
-          "children": [	]							
+          "children": [
+			{
+			  "name": "Đỗ Văn An",
+			  "yearOfBirth": "",
+			  "hometown": "Trung Lộc",
+			   "spouse": "Nguyễn Thị Hằng",
+			  "children": [	
+					 {
+					  "name": "Nguyễn Đỗ Nho",
+					  "yearOfBirth": "",
+					  "hometown": "Trung Lộc",
+					   "spouse": "",
+					  "children": [	
+						{
+						  "name": "Nguyễn Đỗ Nghị",
+						  "yearOfBirth": "",
+						  "hometown": "Trung Lộc",
+						   "spouse": "",
+						  "children": [	]							
+						}
+					  ]							
+					},
+					{
+					  "name": "Nguyễn Đỗ Siêu",
+					  "yearOfBirth": "",
+					  "hometown": "Trung Lộc",
+					   "spouse": "",
+					  "children": [	
+						{
+					  "name": "Nguyễn Đỗ Tìm",
+					  "yearOfBirth": "",
+					  "hometown": "Trung Lộc",
+					   "spouse": "",
+					  "children": [	]							
+					},{
+					  "name": "Nguyễn Đỗ Thông",
+					  "yearOfBirth": "",
+					  "hometown": "Trung Lộc",
+					   "spouse": "",
+					  "children": [	]							
+					},
+					{
+					  "name": "Nguyễn Đỗ Luật",
+					  "yearOfBirth": "",
+					  "hometown": "Trung Lộc",
+					   "spouse": "",
+					  "children": [	]							
+					},
+					{
+					  "name": "Nguyễn Đỗ Tố",
+					  "yearOfBirth": "",
+					  "hometown": "Trung Lộc",
+					   "spouse": "",
+					  "children": [	]							
+					}
+					
+					  ]							
+					}
+			  ]							
+			}
+		  ]							
         },
         {
           "name": "Đỗ Văn Minh",
