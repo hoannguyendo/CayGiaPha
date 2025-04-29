@@ -221,14 +221,57 @@
 										  "yearOfBirth": "",
 										  "hometown": "Trung Lộc",
 										   "spouse": "",
-										  "children": [	]							
+										  "children": [
+												{
+												  "name": "Nguyễn Đỗ Tuyên",
+												  "yearOfBirth": "",
+												  "hometown": "Trung Lộc",
+												   "spouse": "",
+												  "children": [	]							
+												},
+												{
+												  "name": "Nguyễn Thị Nga",
+												  "yearOfBirth": "",
+												  "hometown": "Trung Lộc",
+												   "spouse": "",
+												  "children": [	]							
+												},
+												{
+												  "name": "Nguyễn Đỗ Khuôn",
+												  "yearOfBirth": "",
+												  "hometown": "Trung Lộc",
+												   "spouse": "",
+												  "children": [	]							
+												},
+												{
+												  "name": "Nguyễn Đỗ Triết",
+												  "yearOfBirth": "",
+												  "hometown": "Trung Lộc",
+												   "spouse": "",
+												  "children": [	]							
+												}
+										  ]							
 										},
 										{
 										  "name": "Nguyễn Đỗ Cương",
 										  "yearOfBirth": "",
 										  "hometown": "Trung Lộc",
 										   "spouse": "",
-										  "children": [												
+										  "children": [	
+												{
+												  "name": "Nguyễn Đỗ Hòa",
+												  "yearOfBirth": "",
+												  "hometown": "Trung Lộc",
+												   "spouse": "",
+												  "children": [	]							
+												},
+												{
+												  "name": "Nguyễn Đỗ Khóa",
+												  "yearOfBirth": "",
+												  "hometown": "Trung Lộc",
+												   "spouse": "",
+												  "children": [	]							
+												}
 										  ]							
 										}
 									  ]							
