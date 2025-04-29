@@ -51,7 +51,59 @@
 										  "yearOfBirth": "",
 										  "hometown": "Trung Lộc",
 										   "spouse": "",
-										  "children": [	]							
+										  "children": [	
+												{
+												  "name": "Nguyễn Đỗ Linh",
+												  "yearOfBirth": "",
+												  "hometown": "Trung Lộc",
+												   "spouse": "",
+												  "children": [
+														{
+														  "name": "Nguyễn Đỗ Đờm",
+														  "yearOfBirth": "",
+														  "hometown": "Trung Lộc",
+														   "spouse": "",
+														  "children": [
+																{
+																  "name": "Nguyễn Đỗ Níu",
+																  "yearOfBirth": "",
+																  "hometown": "Trung Lộc",
+																   "spouse": "",
+																  "children": [	]							
+																}	
+														  ]							
+														}
+												  ]							
+												},
+												{
+												  "name": "Nguyễn Đỗ Mái",
+												  "yearOfBirth": "",
+												  "hometown": "Trung Lộc",
+												   "spouse": "",
+												  "children": [	]							
+												},{
+												  "name": "Nguyễn Đỗ Hột",
+												  "yearOfBirth": "",
+												  "hometown": "Trung Lộc",
+												   "spouse": "",
+												  "children": [
+														{
+														  "name": "Nguyễn Đỗ Tân",
+														  "yearOfBirth": "",
+														  "hometown": "Trung Lộc",
+														   "spouse": "",
+														  "children": [	]							
+														},
+														{
+														  "name": "Nguyễn Đỗ Cho",
+														  "yearOfBirth": "",
+														  "hometown": "Trung Lộc",
+														   "spouse": "",
+														  "children": [	]							
+														}
+												  ]							
+												}
+										  ]							
 										},
 										{
 										  "name": "Nguyễn Đỗ Hôn",
@@ -65,7 +117,23 @@
 										  "yearOfBirth": "",
 										  "hometown": "Trung Lộc",
 										   "spouse": "",
-										  "children": [	]							
+										  "children": [	
+											{
+											  "name": "Nguyễn Đỗ Đắng",
+											  "yearOfBirth": "",
+											  "hometown": "Trung Lộc",
+											   "spouse": "",
+											  "children": [	
+													{
+														  "name": "Nguyễn Đỗ Hôi",
+														  "yearOfBirth": "",
+														  "hometown": "Trung Lộc",
+														   "spouse": "",
+														  "children": [	]							
+														}
+											  ]							
+											}
+										  ]							
 										}
 								  ]							
 								}
@@ -118,14 +186,81 @@
 									  "yearOfBirth": "",
 									  "hometown": "Trung Lộc",
 									   "spouse": "",
-									  "children": [	]							
+									  "children": [	
+										{
+										  "name": "Nguyễn Đỗ Hài",
+										  "yearOfBirth": "",
+										  "hometown": "Trung Lộc",
+										   "spouse": "",
+										  "children": [
+														{
+														  "name": "Nguyễn Đỗ Nhượng",
+														  "yearOfBirth": "",
+														  "hometown": "Trung Lộc",
+														   "spouse": "",
+														  "children": [	]							
+														},
+														{
+														  "name": "Nguyễn Đỗ Lục",
+														  "yearOfBirth": "",
+														  "hometown": "Trung Lộc",
+														   "spouse": "",
+														  "children": [	]							
+														},
+														{
+														  "name": "Nguyễn Đỗ Trước",
+														  "yearOfBirth": "",
+														  "hometown": "Trung Lộc",
+														   "spouse": "",
+														  "children": [	]							
+														}
+										  ]							
+										},
+										{
+										  "name": "Nguyễn Đỗ Điều",
+										  "yearOfBirth": "",
+										  "hometown": "Trung Lộc",
+										   "spouse": "",
+										  "children": [	]							
+										},
+										{
+										  "name": "Nguyễn Đỗ Cương",
+										  "yearOfBirth": "",
+										  "hometown": "Trung Lộc",
+										   "spouse": "",
+										  "children": [												
+										  ]							
+										}
+									  ]							
 									},
 									{
 									  "name": "Nguyễn Đỗ Nhiêu",
 									  "yearOfBirth": "",
 									  "hometown": "Trung Lộc",
 									   "spouse": "",
-									  "children": [	]							
+									  "children": [	
+											{
+												  "name": "Nguyễn Đỗ Khóa",
+												  "yearOfBirth": "",
+												  "hometown": "Trung Lộc",
+												   "spouse": "",
+												  "children": [	]							
+												},
+												{
+												  "name": "Nguyễn Đỗ Khiển",
+												  "yearOfBirth": "",
+												  "hometown": "Trung Lộc",
+												   "spouse": "",
+												  "children": [	]							
+												},
+												{
+												  "name": "Nguyễn Đỗ Tạ",
+												  "yearOfBirth": "",
+												  "hometown": "Trung Lộc",
+												   "spouse": "",
+												  "children": [	]							
+												}
+									  ]							
 									}
 							  ]							
 							},
@@ -140,14 +275,30 @@
 									  "yearOfBirth": "",
 									  "hometown": "Trung Lộc",
 									   "spouse": "",
-									  "children": [	]							
+									  "children": [	
+											{
+											  "name": "Nguyễn Đỗ Tồn",
+											  "yearOfBirth": "",
+											  "hometown": "Trung Lộc",
+											   "spouse": "",
+											  "children": [	]							
+											}
+									  ]							
 									},
 									{
 									  "name": "Nguyễn Đỗ Huy",
 									  "yearOfBirth": "",
 									  "hometown": "Trung Lộc",
 									   "spouse": "",
-									  "children": [	]							
+									  "children": [	
+											{
+											"name": "Nguyễn Đỗ Xạ",
+											  "yearOfBirth": "",
+											  "hometown": "Trung Lộc",
+											   "spouse": "",
+											  "children": [	]							
+											}
+									  ]							
 									},
 									{
 									  "name": "Nguyễn Đỗ Húy",
