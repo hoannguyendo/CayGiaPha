@@ -22,19 +22,22 @@
           "yearOfBirth": "1522",
           "hometown": "Trung Lộc",
 		   "spouse": "Lê Thị Phúng",
-          "children": [
+          "children": 
+		  [
 			{
 			  "name": "Đỗ Văn An",
 			  "yearOfBirth": "",
 			  "hometown": "Trung Lộc",
 			   "spouse": "Nguyễn Thị Hằng",
-			  "children": [ ]							
+			  "children": [ ]	
+			]
         },
         {
           "name": "Đỗ Văn Minh",
           "yearOfBirth": "",
           "hometown": "Đồng Đức",
-          "children": [
+          "children": 
+		  [
 		  
 		   {
               "name": "Đỗ Văn Oai",
