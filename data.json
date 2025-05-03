@@ -95,40 +95,35 @@
 																  "hometown": "",
 																  "children": [ 
 																  {
-																	  "name": "Nguyễn Đỗ Diễm Hằng",
-																	  "yearOfBirth": "",
-																	  "hometown": "Trung Lộc",
-																	   "spouse": "",
-																	  "children": [	]							
-																	},
-																	{
-																	  "name": "Nguyễn Đỗ Diễm Hương",
-																	  "yearOfBirth": "",
-																	  "hometown": "Trung Lộc",
-																	   "spouse": "",
-																	  "children": [	]							
-																	},
-																	{
-																	  "name": "Nguyễn Đỗ Kiều Loan",
-																	  "yearOfBirth": "",
-																	  "hometown": "Trung Lộc",
-																	   "spouse": "",
-																	  "children": [	]							
-																	},
-																	{
-																	  "name": "Nguyễn Đỗ Mỹ Linh",
-																	  "yearOfBirth": "",
-																	  "hometown": "Trung Lộc",
-																	   "spouse": "",
-																	  "children": [	]							
-																	},
-																	{
-																	  "name": "Nguyễn Đỗ Kim Phụng",
-																	  "yearOfBirth": "",
-																	  "hometown": "Trung Lộc",
-																	   "spouse": "",
-																	  "children": [	]							
-																	}
+																		  "name": "Nguyễn Đỗ Diễm Hằng",
+																		  "yearOfBirth": "",
+																		  "hometown": "",
+																		  "children": [ ]								
+																	  },
+																	  {
+																		  "name": "Nguyễn Diễm Hương",
+																		  "yearOfBirth": "",
+																		  "hometown": "",
+																		  "children": [ ]								
+																	  },
+																	  {
+																		  "name": "Nguyễn Kiều Loan",
+																		  "yearOfBirth": "",
+																		  "hometown": "",
+																		  "children": [ ]								
+																	  },
+																	  {
+																		  "name": "Nguyễn Mỹ Linh",
+																		  "yearOfBirth": "",
+																		  "hometown": "",
+																		  "children": [ ]								
+																	  },
+																	  {
+																		  "name": "Nguyễn Đỗ Kim Phụng",
+																		  "yearOfBirth": "",
+																		  "hometown": "",
+																		  "children": [ ]								
+																	  }
 																  ]								
 															  }
 															  ]								
