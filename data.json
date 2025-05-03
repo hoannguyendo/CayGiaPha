@@ -27,7 +27,22 @@
               "yearOfBirth": "1592",
               "hometown": "",
 			    "spouse": "Nguyễn Thị Hằng",
-              "children": [ ]
+              "children": [ 
+			  {
+				  "name": "Nguyễn Đỗ Nho",
+				  "yearOfBirth": "",
+				  "hometown": "",
+				  "children": [ 
+					{
+					  "name": "Nguyễn Đỗ Nghị",
+					  "yearOfBirth": "",
+					  "hometown": "Trung Lộc",
+					   "spouse": "",
+					  "children": []
+					}
+				  ]
+			  }
+			  ]
 			 }
 		  ]
 		},
@@ -36,7 +51,14 @@
           "yearOfBirth": "",
           "hometown": "Đồng Đức",
 		   "spouse": "",
-          "children": []
+          "children": [
+		  {
+			 "name": "Đỗ Văn Oai",
+              "yearOfBirth": "",
+              "hometown": "",
+              "children": []
+		 }
+		  ]
 		}
 	  ]
     }
