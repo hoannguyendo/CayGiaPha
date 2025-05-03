@@ -3,13 +3,13 @@
   "yearOfBirth": "1448",
   "hometown": "Hà Tĩnh",
   "spouse": "Nguyễn Thị Phóng",
-  "children": 
-  [
+  "children": [
     {
       "name": "Đỗ Văn Bản",
       "yearOfBirth": "",
       "hometown": "Đồng Đức",
-	  "spouse": "Lê Thị Lễ",
-      "children": [ ]
+      "spouse": "Lê Thị Lễ",
+      "children": []
+    }
   ]
 }
