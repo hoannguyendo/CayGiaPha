@@ -4,243 +4,31 @@
   "hometown": "Hà Tĩnh",
   "spouse": "Nguyễn Thị Phóng",
   "children": [
-    {
-      "name": "Đỗ Văn Bản",
-      "yearOfBirth": "",
-      "hometown": "Đồng Đức",
-      "spouse": "Lê Thị Lễ",
-      "children": [
-		{
-          "name": "Đỗ Văn ?",
-          "yearOfBirth": "",
-          "hometown": "Địch Yên",
-          "children": []
-        },
-        {
-          "name": "Đỗ Văn Thái",
-          "yearOfBirth": "1522",
-          "hometown": "Trung Lộc",
-		   "spouse": "Lê Thị Phúng",
-          "children": [
-			 {
-              "name": "Đỗ Văn An",
-              "yearOfBirth": "1592",
-              "hometown": "",
-			  "spouse": "Nguyễn Thị Hằng",
-              "children": [ 
-				  {
-					  "name": "Nguyễn Đỗ Nho",
-					  "yearOfBirth": "",
-					  "hometown": "",
-					  "children": [ 
-						{
-							  "name": "Nguyễn Đỗ Nghị",
-							  "yearOfBirth": "",
-							  "hometown": "",
-							  "children": [ 
-								{
-									  "name": "Nguyễn Đỗ Tàng",
-									  "yearOfBirth": "",
-									  "hometown": "",
-									  "children": [
-										{
-										  "name": "Nguyễn Đỗ Minh",
-										  "yearOfBirth": "",
-										  "hometown": "",
-										  "children": [ 
-											{
-												  "name": "Nguyễn Đỗ Linh",
-												  "yearOfBirth": "",
-												  "hometown": "",
-												  "children": [ 
-													{
-													  "name": "Nguyễn Đỗ Đờm",
-													  "yearOfBirth": "",
-													  "hometown": "",
-													  "children": [ 
-														{
-															  "name": "Nguyễn Đỗ Níu",
-															  "yearOfBirth": "",
-															  "hometown": "",
-															  "children": [ ]								
-														  }
-													  ]								
-												  }
-												  ]								
-											  },
-											  {
-												  "name": "Nguyễn Đỗ Mái",
-												  "yearOfBirth": "",
-												  "hometown": "",
-												  "children": [ ]								
-											  },
-											  {
-												  "name": "Nguyễn Đỗ Hột",
-												  "yearOfBirth": "",
-												  "hometown": "",
-												  "children": [ 
-													{
-														  "name": "Nguyễn Đỗ Tân",
-														  "yearOfBirth": "",
-														  "hometown": "",
-														  "children": [ 
-															{
-															  "name": "Nguyễn Đỗ Tý",
-															  "yearOfBirth": "",
-															  "hometown": "",
-															  "children": [ 
-															  {
-																  "name": "Nguyễn Đỗ Diêm",
-																  "yearOfBirth": "",
-																  "hometown": "",
-																  "children": [ 
-																  {
-																		  "name": "Nguyễn Đỗ Diễm Hằng",
-																		  "yearOfBirth": "",
-																		  "hometown": "",
-																		  "children": [ ]								
-																	  },
-																	  {
-																		  "name": "Nguyễn Diễm Hương",
-																		  "yearOfBirth": "",
-																		  "hometown": "",
-																		  "children": [ ]								
-																	  },
-																	  {
-																		  "name": "Nguyễn Kiều Loan",
-																		  "yearOfBirth": "",
-																		  "hometown": "",
-																		  "children": [ ]								
-																	  },
-																	  {
-																		  "name": "Nguyễn Mỹ Linh",
-																		  "yearOfBirth": "",
-																		  "hometown": "",
-																		  "children": [ ]								
-																	  },
-																	  {
-																		  "name": "Nguyễn Đỗ Kim Phụng",
-																		  "yearOfBirth": "",
-																		  "hometown": "",
-																		  "children": [ ]								
-																	  }
-																  ]								
-															  }
-															  ]								
-														  }
-														  ]								
-													  },
-													  {
-														  "name": "Nguyễn Đỗ Cho",
-														  "yearOfBirth": "",
-														  "hometown": "",
-														  "children": [ ]								
-													  }
-												  ]								
-											  }
-										  ]								
-									  },
-									  {
-										  "name": "Nguyễn Đỗ Hôn",
-										  "yearOfBirth": "",
-										  "hometown": "",
-										  "children": [ ]								
-									  },
-									  {
-										  "name": "Nguyễn Đỗ Nan",
-										  "yearOfBirth": "",
-										  "hometown": "",
-										  "children": [ ]								
-									  }
-									  ]								
-								}
-							  ]								
-						  }
-					  ]						
-				  },
-				   {
-					  "name": "Nguyễn Đỗ Siêu",
-					  "yearOfBirth": "",
-					  "hometown": "",
-					  "children": [ 
-						{
-							  "name": "Nguyễn Đỗ Tìm",
-							  "yearOfBirth": "",
-							  "hometown": "",
-							  "children": [ ]								
-						  },
-						  {
-							  "name": "Nguyễn Đỗ Thông",
-							  "yearOfBirth": "",
-							  "hometown": "",
-							  "children": [ ]								
-						  },
-						  {
-							  "name": "Nguyễn Đỗ Luật",
-							  "yearOfBirth": "",
-							  "hometown": "",
-							  "children": [ ]								
-						  },
-						  {
-							  "name": "Nguyễn Đỗ Tố",
-							  "yearOfBirth": "",
-							  "hometown": "",
-							  "children": [ ]								
-						  }
-					  ]						
-				  }
-			  ]
-			 }
-		  ]
-		},
-		 {
-          "name": "Đỗ Văn Minh",
-          "yearOfBirth": "",
-          "hometown": "Đồng Đức",
-		   "spouse": "",
-          "children": [
 		  {
-			 "name": "Đỗ Văn Oai",
-              "yearOfBirth": "",
-              "hometown": "",
-              "children": [
-			   {
-				 "name": "Đỗ Văn Thức",
+		  "name": "Đỗ Văn Bản",
+		  "yearOfBirth": "",
+		  "hometown": "Đồng Đức",
+		  "spouse": "Lê Thị Lễ",
+		  "children": [
+				{
+				  "name": "Đỗ Văn ?",
 				  "yearOfBirth": "",
-				  "hometown": "",
-				  "children": [
-					 {
-						 "name": "Đỗ Văn Giảng",
-						  "yearOfBirth": "",
-						  "hometown": "",
-						  "children": [
-							 {
-								 "name": "Đỗ Văn Yến",
-								  "yearOfBirth": "",
-								  "hometown": "",
-								  "children": []									
-							 },
-							  {
-								 "name": "Đỗ Văn Mưu",
-								  "yearOfBirth": "",
-								  "hometown": "",
-								  "children": []
-							 },
-							  {
-								 "name": "Đỗ Văn Thành",
-								  "yearOfBirth": "",
-								  "hometown": "",
-								  "children": []
-							 }					 
-						  ]
-					 }
-				  ]
-			 }
-		]
-		 }
-		  ]
+				  "hometown": "Địch Yên",
+				  "children": [ ]
+				},
+				{
+				  "name": "Đỗ Văn Thái",
+				  "yearOfBirth": "1522",
+				  "hometown": "Trung Lộc",
+				  "children": [ ]
+				},
+				{
+				  "name": "Đỗ Văn Minh",
+				  "yearOfBirth": "",
+				  "hometown": "Đồng Đức",
+				  "children": [ ]
+				}
+		  ]    
 		}
-	  ]
-    }
-  ]
+	]    
 }
