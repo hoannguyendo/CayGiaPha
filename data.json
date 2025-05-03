@@ -32,15 +32,47 @@
 					  "name": "Nguyễn Đỗ Nho",
 					  "yearOfBirth": "",
 					  "hometown": "",
-					  "children": [ ]
+					  "children": [ 
+						{
+							  "name": "Nguyễn Đỗ Nghị",
+							  "yearOfBirth": "",
+							  "hometown": "",
+							  "children": [ ]
+								
+						  }
+					  ]
 						
 				  },
 				   {
 					  "name": "Nguyễn Đỗ Siêu",
 					  "yearOfBirth": "",
 					  "hometown": "",
-					  "children": [ ]
-						
+					  "children": [ 
+						{
+							  "name": "Nguyễn Đỗ Tìm",
+							  "yearOfBirth": "",
+							  "hometown": "",
+							  "children": [ ]								
+						  },
+						  {
+							  "name": "Nguyễn Đỗ Thông",
+							  "yearOfBirth": "",
+							  "hometown": "",
+							  "children": [ ]								
+						  },
+						  {
+							  "name": "Nguyễn Đỗ Luật",
+							  "yearOfBirth": "",
+							  "hometown": "",
+							  "children": [ ]								
+						  },
+						  {
+							  "name": "Nguyễn Đỗ Tố",
+							  "yearOfBirth": "",
+							  "hometown": "",
+							  "children": [ ]								
+						  }
+					  ]						
 				  }
 			  ]
 			 }
