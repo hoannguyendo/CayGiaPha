@@ -50,7 +50,29 @@
 															  "yearOfBirth": "",
 															  "hometown": "Trung Lộc",
 															   "spouse": "",
-															  "children": [	]
+															  "children": [
+																	{
+																	  "name": "Nguyễn Đỗ Linh",
+																	  "yearOfBirth": "",
+																	  "hometown": "Trung Lộc",
+																	   "spouse": "",
+																	  "children": [	]
+																	 },
+																	 {
+																	  "name": "Nguyễn Đỗ Mái",
+																	  "yearOfBirth": "",
+																	  "hometown": "Trung Lộc",
+																	   "spouse": "",
+																	  "children": [	]
+																	 },
+																	 {
+																	  "name": "Nguyễn Đỗ Hột",
+																	  "yearOfBirth": "",
+																	  "hometown": "Trung Lộc",
+																	   "spouse": "",
+																	  "children": [	]
+																	 }
+															  ]
 															 },
 															 {
 															  "name": "Nguyễn Đỗ Hôn",
@@ -64,7 +86,15 @@
 															  "yearOfBirth": "",
 															  "hometown": "Trung Lộc",
 															   "spouse": "",
-															  "children": [	]
+															  "children": [	
+																	{
+																	  "name": "Nguyễn Đỗ Đắng",
+																	  "yearOfBirth": "",
+																	  "hometown": "Trung Lộc",
+																	   "spouse": "",
+																	  "children": [	]
+																	 }
+															  ]
 															 }
 													  ]
 													 }
@@ -131,7 +161,29 @@
 										  "name": "Đỗ Văn Giảng",
 										  "yearOfBirth": "",
 										  "hometown": "",
-										  "children": []
+										  "children": [
+											{
+											  "name": "Đỗ Văn Yến",
+											  "yearOfBirth": "",
+											  "hometown": "Tân An",
+											  "spouse": "",
+											  "children": []
+											},
+											{
+											  "name": "Đỗ Văn Mưu",
+											  "yearOfBirth": "",
+											  "hometown": "Tân An",
+											  "spouse": "",
+											  "children": []
+											},
+											{
+											  "name": "Đỗ Văn Thành",
+											  "yearOfBirth": "",
+											  "hometown": "Tân An",
+											  "spouse": "",
+											  "children": []
+											}
+										  ]
 										}
 								  ]
 								}
