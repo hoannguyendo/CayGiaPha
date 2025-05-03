@@ -10,26 +10,6 @@
       "yearOfBirth": "",
       "hometown": "Đồng Đức",
 	  "spouse": "Lê Thị Lễ",
-      "children": 
-	    [
-			{
-			  "name": "Đỗ Văn ?",
-			  "yearOfBirth": "",
-			  "hometown": "Địch Yên",
-			  "children": [ ]
-			},
-			{
-			  "name": "Đỗ Văn Thái",
-			  "yearOfBirth": "1522",
-			  "hometown": "Trung Lộc",
-			   "spouse": "Lê Thị Phúng",
-			  "children":  [ ]
-			},
-			{
-			  "name": "Đỗ Văn Minh",
-			  "yearOfBirth": "",
-			  "hometown": "Đồng Đức",
-			  "children": [ ]
-		[
+      "children": [ ]
   ]
 }
