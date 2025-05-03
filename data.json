@@ -26,52 +26,22 @@
               "name": "Đỗ Văn An",
               "yearOfBirth": "1592",
               "hometown": "",
-			    "spouse": "Nguyễn Thị Hằng",
+			  "spouse": "Nguyễn Thị Hằng",
               "children": [ 
-			  {
-				  "name": "Nguyễn Đỗ Nho",
-				  "yearOfBirth": "",
-				  "hometown": "",
-				  "children": [ 
-					{
-					  "name": "Nguyễn Đỗ Nghị",
+				  {
+					  "name": "Nguyễn Đỗ Nho",
 					  "yearOfBirth": "",
-					  "hometown": "Trung Lộc",
-					   "spouse": "",
-					  "children": [
-						{
-						  "name": "Nguyễn Đỗ Tàng",
-						  "yearOfBirth": "",
-						  "hometown": "Trung Lộc",
-						   "spouse": "",
-						  "children": [
-							{
-							  "name": "Nguyễn Đỗ Minh",
-							  "yearOfBirth": "",
-							  "hometown": "Trung Lộc",
-							   "spouse": "",
-							  "children": []
-							},
-							{
-							  "name": "Nguyễn Đỗ Hôn",
-							  "yearOfBirth": "",
-							  "hometown": "Trung Lộc",
-							   "spouse": "",
-							  "children": []
-							},
-							{
-							  "name": "Nguyễn Đỗ Nan",
-							  "yearOfBirth": "",
-							  "hometown": "Trung Lộc",
-							   "spouse": "",
-							  "children": []
-							}
-						  ]
-						}
-					  ]
-					}
-				  ]
-			  }
+					  "hometown": "",
+					  "children": [ ]
+						
+				  },
+				   {
+					  "name": "Nguyễn Đỗ Siêu",
+					  "yearOfBirth": "",
+					  "hometown": "",
+					  "children": [ ]
+						
+				  }
 			  ]
 			 }
 		  ]
