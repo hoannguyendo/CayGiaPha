@@ -1263,7 +1263,34 @@
 																							  "name": "Nguyễn Đỗ Tình",
 																							  "yearOfBirth": "",
 																							  "hometown": "",
-																							  "children": []
+																							  "children": [
+																								{
+																								  "name": "Nguyễn Đỗ Trạng",
+																								  "yearOfBirth": "",
+																								  "hometown": "",
+																								  "children": [
+																									{
+																								  "name": "Nguyễn Đỗ Quang Dũng",
+																								  "yearOfBirth": "",
+																								  "hometown": "",
+																								  "children": [
+																									{
+																									  "name": "Nguyễn Đỗ Khánh Linh",
+																									  "yearOfBirth": "",
+																									  "hometown": "",
+																									  "children": []
+																									}
+																								  ]
+																								},
+																								{
+																								  "name": "Nguyễn Đỗ Quang Vinh",
+																								  "yearOfBirth": "",
+																								  "hometown": "",
+																								  "children": []
+																								}
+																								  ]
+																								}
+																							  ]
 																							},
 																							{
 																							  "name": "Nguyễn Thị Thâm",
@@ -1295,7 +1322,71 @@
 																					  "name": "Nguyễn Đỗ Úc",
 																					  "yearOfBirth": "",
 																					  "hometown": "",
-																					  "children": []
+																					  "children": [
+																						{
+																						  "name": "Nguyễn Đỗ Tú",
+																						  "yearOfBirth": "",
+																						  "hometown": "",
+																						  "children": [
+																								{
+																								  "name": "Nguyễn Đỗ Kiều Trang",
+																								  "yearOfBirth": "",
+																								  "hometown": "",
+																								  "children": [  ]
+																								},
+																								{
+																								  "name": "Nguyễn Đỗ Hoàn",
+																								  "yearOfBirth": "",
+																								  "hometown": "",
+																								  "children": [
+																									{
+																										  "name": "Nguyễn Đỗ Hoàng Ân",
+																										  "yearOfBirth": "",
+																										  "hometown": "",
+																										  "children": [  ]
+																										},
+																										{
+																										  "name": "Nguyễn Đỗ Hoàng Đức",
+																										  "yearOfBirth": "",
+																										  "hometown": "",
+																										  "children": [  ]
+																										}
+																								  ]
+																								},
+																								{
+																								  "name": "Nguyễn Đỗ Kiều Lan",
+																								  "yearOfBirth": "",
+																								  "hometown": "",
+																								  "children": [  ]
+																								},
+																								{
+																								  "name": "Nguyễn Đỗ Ánh Phương",
+																								  "yearOfBirth": "",
+																								  "hometown": "",
+																								  "children": [  ]
+																								},
+																								{
+																								  "name": "Nguyễn Đỗ Anh Tuấn",
+																								  "yearOfBirth": "",
+																								  "hometown": "",
+																								  "children": [
+																									{
+																										  "name": "Nguyễn Đỗ Anh Kiệt",
+																										  "yearOfBirth": "",
+																										  "hometown": "",
+																										  "children": [  ]
+																										},
+																										{
+																										  "name": "Nguyễn Đỗ Anh Khoa",
+																										  "yearOfBirth": "",
+																										  "hometown": "",
+																										  "children": [  ]
+																										}
+																								  ]
+																								}
+																						  ]
+																						}
+																					  ]
 																					}
 																			  ]
 																			 },
