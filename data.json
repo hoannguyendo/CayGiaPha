@@ -881,33 +881,7 @@
 																  "name": "Nguyễn Đỗ Khiển",
 																  "yearOfBirth": "",
 																  "hometown": "",
-																  "children": [
-																		{
-																		  "name": "Nguyễn Đỗ Luân",
-																		  "yearOfBirth": "",
-																		  "hometown": "",
-																		  "children": [  ]
-																		},
-																			{
-																		  "name": "Nguyễn Đỗ Quế",
-																		  "yearOfBirth": "",
-																		  "hometown": "",
-																		  "children": [
-																				{
-																				  "name": "Nguyễn Đỗ Du",
-																				  "yearOfBirth": "",
-																				  "hometown": "",
-																				  "children": [  ]
-																				}
-																		  ]
-																		},
-																			{
-																		  "name": "Nguyễn Đỗ Tròn",
-																		  "yearOfBirth": "",
-																		  "hometown": "",
-																		  "children": [  ]
-																		}
-																  ]
+																  "children": []
 																},
 																{
 																  "name": "Nguyễn Đỗ Tạ",
