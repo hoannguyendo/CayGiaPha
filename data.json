@@ -2556,13 +2556,61 @@
 																									  "name": "Nguyễn Đỗ Phả",
 																									  "yearOfBirth": "",
 																									  "hometown": "",
-																									  "children": [  ]
+																									  "children": [ 
+																											{
+																											  "name": "Nguyễn Thị Trang",
+																											  "yearOfBirth": "",
+																											  "hometown": "",
+																											  "children": [  ]
+																											},
+																											{
+																											  "name": "Nguyễn Thị Lộc",
+																											  "yearOfBirth": "",
+																											  "hometown": "",
+																											  "children": [  ]
+																											},{
+																											  "name": "Nguyễn Đỗ Khôi",
+																											  "yearOfBirth": "",
+																											  "hometown": "",
+																											  "children": [  ]
+																											},
+																											{
+																											  "name": "Nguyễn Đỗ Khương",
+																											  "yearOfBirth": "",
+																											  "hometown": "",
+																											  "children": [  ]
+																											}
+																												]
 																									},
 																									{
 																									  "name": "Nguyễn Đỗ Hiện",
 																									  "yearOfBirth": "",
 																									  "hometown": "",
-																									  "children": [  ]
+																									  "children": [ 
+																											{
+																											  "name": "Nguyễn Thị Thương Hoài",
+																											  "yearOfBirth": "",
+																											  "hometown": "",
+																											  "children": [  ]
+																											},
+																											{
+																											  "name": "Nguyễn Đỗ Hoàng Lưu",
+																											  "yearOfBirth": "",
+																											  "hometown": "",
+																											  "children": [  ]
+																											},{
+																											  "name": "Nguyễn Đỗ Hoàng Luyến",
+																											  "yearOfBirth": "",
+																											  "hometown": "",
+																											  "children": [  ]
+																											},
+																											{
+																											  "name": "Nguyễn Đỗ Hoàng Lên",
+																											  "yearOfBirth": "",
+																											  "hometown": "",
+																											  "children": [  ]
+																											}
+																									  ]
 																									}
 																					  ]
 																					}
@@ -2591,7 +2639,21 @@
 																		  "name": "Nguyễn Đỗ Quế",
 																		  "yearOfBirth": "",
 																		  "hometown": "",
-																		  "children": []
+																		  "children": [
+																				{
+																				  "name": "Nguyễn Đỗ Du",
+																				  "yearOfBirth": "",
+																				  "hometown": "",
+																				  "children": [
+																						{
+																						  "name": "Nguyễn Đỗ Cầu",
+																						  "yearOfBirth": "",
+																						  "hometown": "",
+																						  "children": []
+																						}
+																				  ]
+																				}
+																		  ]
 																		},
 																		{
 																		  "name": "Nguyễn Đỗ Tròn",
@@ -2615,13 +2677,75 @@
 																				  "name": "Nguyễn Đỗ Ngân",
 																				  "yearOfBirth": "",
 																				  "hometown": "",
-																				  "children": [  ]
+																				  "children": [ 
+																						{
+																							  "name": "Nguyễn Đỗ Hoằng",
+																							  "yearOfBirth": "",
+																							  "hometown": "",
+																							  "children": [  ]
+																							},
+																							{
+																							  "name": "Nguyễn Đỗ Duy",
+																							  "yearOfBirth": "",
+																							  "hometown": "",
+																							  "children": [  ]
+																							},
+																							{
+																							  "name": "Nguyễn Đỗ Trương",
+																							  "yearOfBirth": "",
+																							  "hometown": "",
+																							  "children": [  ]
+																							},
+																							{
+																							  "name": "Nguyễn Thị Tẫn",
+																							  "yearOfBirth": "",
+																							  "hometown": "",
+																							  "children": [  ]
+																							},
+																							{
+																							  "name": "Nguyễn Thị Mãnh",
+																							  "yearOfBirth": "",
+																							  "hometown": "",
+																							  "children": [  ]
+																							}
+																				  ]
 																				},
 																					{
 																				  "name": "Nguyễn Đỗ Đăng",
 																				  "yearOfBirth": "",
 																				  "hometown": "",
-																				  "children": [  ]
+																				  "children": [ 
+																						{
+																							  "name": "Nguyễn Đỗ Trừng",
+																							  "yearOfBirth": "",
+																							  "hometown": "",
+																							  "children": [  ]
+																							},
+																							{
+																							  "name": "Nguyễn Thị Giang",
+																							  "yearOfBirth": "",
+																							  "hometown": "",
+																							  "children": [  ]
+																							},
+																							{
+																							  "name": "Nguyễn Đỗ Hà",
+																							  "yearOfBirth": "",
+																							  "hometown": "",
+																							  "children": [  ]
+																							},
+																							{
+																							  "name": "Nguyễn Đỗ Pháp",
+																							  "yearOfBirth": "",
+																							  "hometown": "",
+																							  "children": [  ]
+																							},
+																							{
+																							  "name": "Nguyễn Đỗ Trị",
+																							  "yearOfBirth": "",
+																							  "hometown": "Bình Thuận",
+																							  "children": [  ]
+																							}
+																				  ]
 																				}
 																		  ]
 																		},
@@ -2629,13 +2753,39 @@
 																		  "name": "Nguyễn Đỗ Cung",
 																		  "yearOfBirth": "",
 																		  "hometown": "",
-																		  "children": []
+																		  "children": [
+																			{
+																			  "name": "Nguyễn Đỗ Khiển",
+																			  "yearOfBirth": "",
+																			  "hometown": "",
+																			  "children": []
+																			}
+																		  ]
 																		},
 																		{
 																		  "name": "Nguyễn Đỗ Huyền",
 																		  "yearOfBirth": "",
 																		  "hometown": "",
-																		  "children": []
+																		  "children": [
+																				{
+																				  "name": "Nguyễn Đỗ Thỉ",
+																				  "yearOfBirth": "",
+																				  "hometown": "",
+																				  "children": [  ]
+																				},
+																				{
+																				  "name": "Nguyễn Thị Thâm",
+																				  "yearOfBirth": "",
+																				  "hometown": "",
+																				  "children": [  ]
+																				},
+																				{
+																				  "name": "Nguyễn Thị Uyên",
+																				  "yearOfBirth": "",
+																				  "hometown": "",
+																				  "children": [  ]
+																				}
+																		  ]
 																		}
 																  ]
 																}
