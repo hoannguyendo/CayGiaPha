@@ -6,7 +6,7 @@
   "children": [
 		  {
 		  "name": "Đỗ Văn Bản",
-		  "yearOfBirth": "",
+		  "yearOfBirth": "1483",
 		  "hometown": "Đồng Đức",
 		  "spouse": "Lê Thị Lễ",
 		  "children": [
@@ -20,10 +20,11 @@
 				  "name": "Đỗ Văn Thái",
 				  "yearOfBirth": "1522",
 				  "hometown": "Trung Lộc",
+				   "spouse": "Lê Thị Phúng",
 				  "children": [
 						{
 						  "name": "Đỗ Văn An",
-						  "yearOfBirth": "",
+						  "yearOfBirth": "1592",
 						  "hometown": "Trung Lộc",
 						   "spouse": "Nguyễn Thị Hằng",
 						  "children": [
@@ -37,7 +38,7 @@
 											  "name": "Nguyễn Đỗ Nghị",
 											  "yearOfBirth": "",
 											  "hometown": "Trung Lộc",
-											   "spouse": "",
+											   "spouse": "Nguyễn Thị Nhuyến ",
 											  "children": [	
 													{
 													  "name": "Nguyễn Đỗ Tàng",
@@ -208,6 +209,7 @@
 																						  "name": "Nguyễn Đỗ Văn Phòng",
 																						  "yearOfBirth": "",
 																						  "hometown": "",
+																						    "spouse": "Trần Thị Huệ",
 																						  "children": [ 
 																							{
 																							  "name": "Nguyễn Đỗ Văn Hoa",
@@ -356,7 +358,7 @@
 														  "name": "Nguyễn Đỗ Thưởng",
 														  "yearOfBirth": "",
 														  "hometown": "Trung Lộc",
-														   "spouse": "",
+														   "spouse": "Ngô Thị Sách",
 														  "children": [	
 																 {
 																  "name": "Nguyễn Đỗ Hài",
@@ -801,7 +803,20 @@
 																					  "name": "Nguyễn Đỗ Thân",
 																					  "yearOfBirth": "",
 																					  "hometown": "",
-																					  "children": []
+																					  "children": [
+																							 {
+																							  "name": "Nguyễn Đỗ Thảo",
+																							  "yearOfBirth": "",
+																							  "hometown": "",
+																							  "children": [  ]
+																							},
+																							{
+																							  "name": "Nguyễn Đỗ Thuận",
+																							  "yearOfBirth": "",
+																							  "hometown": "",
+																							  "children": []
+																							}
+																					  ]
 																					},
 																					{
 																					  "name": "Nguyễn Đỗ Kế",
