@@ -913,63 +913,7 @@
 																  "name": "Nguyễn Đỗ Tạ",
 																  "yearOfBirth": "",
 																  "hometown": "",
-																  "children": [
-																		{
-																			  "name": "Nguyễn Đỗ Cường",
-																			  "yearOfBirth": "",
-																			  "hometown": "",
-																			  "children": [
-																					{
-																					  "name": "Nguyễn Đỗ Ngân",
-																					  "yearOfBirth": "",
-																					  "hometown": "",
-																					  "children": [  ]
-																					},
-																						{
-																					  "name": "Nguyễn Đỗ Đăng",
-																					  "yearOfBirth": "",
-																					  "hometown": "",
-																					  "children": [  ]
-																					}
-																			  ]
-																			},
-																				{
-																			  "name": "Nguyễn Đỗ Cung",
-																			  "yearOfBirth": "",
-																			  "hometown": "",
-																			  "children": [
-																					{
-																					  "name": "Nguyễn Đỗ Khiển",
-																					  "yearOfBirth": "",
-																					  "hometown": "",
-																					  "children": [  ]
-																					}
-																			  ]
-																			},
-																				{
-																			  "name": "Nguyễn Đỗ Huyền",
-																			  "yearOfBirth": "",
-																			  "hometown": "",
-																			  "children": [
-																					{
-																					  "name": "Nguyễn Đỗ Thỉ",
-																					  "yearOfBirth": "",
-																					  "hometown": "",
-																					  "children": [  ]
-																					},
-																						{
-																					  "name": "Nguyễn Thị Thâm",
-																					  "yearOfBirth": "",
-																					  "hometown": "",
-																					  "children": [  ]
-																					},
-																						{
-																					  "name": "Nguyễn Thị Uyên",
-																					  "yearOfBirth": "",
-																					  "hometown": "",
-																					  "children": [  ]
-																					}
-																  ]
+																  "children": []
 																}
 														  ]
 														 }
